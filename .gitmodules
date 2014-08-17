@@ -1,0 +1,24 @@
+[submodule "rhombus-clicker-server"]
+	path = rhombus-clicker-server
+	url = https://github.com/pbeshai/rhombus-clicker-server.git
+[submodule "rhombus-clicker-server-filters/rhombus-clicker-server-filter-multiple-instructor"]
+	path = rhombus-clicker-server-filters/rhombus-clicker-server-filter-multiple-instructor
+	url = https://github.com/pbeshai/rhombus-clicker-server-filter-multiple-instructor.git
+[submodule "rhombus-clicker-support"]
+	path = rhombus-clicker-support
+	url = https://github.com/pbeshai/rhombus-clicker-support.git
+[submodule "rhombus-grunt-socket-server"]
+	path = rhombus-grunt-socket-server
+	url = https://github.com/pbeshai/rhombus-grunt-socket-server.git
+[submodule "rhombus-id-server"]
+	path = rhombus-id-server
+	url = https://github.com/pbeshai/rhombus-id-server.git
+[submodule "rhombus-web-app-basic"]
+	path = rhombus-web-app-basic
+	url = https://github.com/pbeshai/rhombus-web-app-basic.git
+[submodule "rhombus-web-app-game-theory"]
+	path = rhombus-web-app-game-theory
+	url = https://github.com/pbeshai/rhombus-web-app-game-theory.git
+[submodule "rhombus-web-app-experiment"]
+	path = rhombus-web-app-experiment
+	url = https://github.com/pbeshai/rhombus-web-app-experiment.git
